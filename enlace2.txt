@@ -1,0 +1,27 @@
+<!DOCTYPE html>    
+<html>
+<head>
+	<meta charset "utf-8" />
+	<title> Reglas del voleibol </title>
+	<link rel="stylesheet" href="estilovole2.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+</head>
+<div class="caja"><body>
+	<h1>REGLAS DEL VOLEIBOL</h1>
+	<h2>Campo de juego o cancha</h2>
+	<img class="box box4" width "10px" alt="cancha" src="campo.jpg" />
+	<img class="box box4" width "10px" alt="cancha" src="new.jfif" />
+	<p>En la imagen se aprecia la línea central de la cancha y sobre la cual se coloca la red divisoria sostenida por los postes. También se ven las varas que delimitan el área de juego, y se aprecian las líneas que delimitan la zona de ataque, justo frente a la red. El suelo de color azul con líneas blancas es la zona libre.</p>
+	<div class="caja1"><ul> 
+		<li> El campo de juego o cancha es de forma rectangular y debe medir 18 m de largo po 9 m de ancho.</li>
+		<li> La zona libre del campo debe medir 3 m en cada uno de sus cuatro lados, ya que ahí también se realizan jugadas.</li>
+		<li> La mitad del campo debe estar marcada por una línea sobre la cual se coloca la red o malla divisoria. Esta línea divide la cancha en dos parte iguales que miden 9 m, y donde jugará cada uno de los equipos.</li>
+		<li> Luego, década lado de la línea central debe estar marcada una línea que delimita la zona de ataque y que mide 3 m en cada lado de la cancha.</li>
+		<li> La parte restante es la zona defensiva y donde se posicionan los zagueros y el líbero.</li>
+	</ul></div>
+	<img width "10px" src="https://media.giphy.com/media/l0G17Fp1jdq62ZltK/giphy.gif" />
+	<center><a href="Voleibol26.html"> Picha aquí para volver a la página de inicio</a></br></center>
+</div></body>
+</html>

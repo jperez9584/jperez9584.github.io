@@ -1,0 +1,27 @@
+<!DOCTYPE html>    
+<html>
+<head>
+	<meta charset "utf-8" />
+	<title> Todo sobre Voleibol </title>
+</head>
+<body>
+	<h1>VOLEIBOL</h1>
+	<h2>Origen</h2>
+	El voleibol fue creado el 9 de febrero de 1895 por William George Morgan, entrenador deportivo de la Asociación Cristiana de Jóvenes (YMCA) en Holyoke. El voleibol fue ideado en principio como una alternativa más sosegada al baloncesto</br>
+	Morgan se vio en la necesidad de crear una actividad física alternativa y de menor intensidad que el baloncesto, deporte creado por su compañero James Naismith en 1891, el cual pudiese ser practicado tanto por jóvenes como por personas adultas en espacios cerrados o abiertos. De esta manera nació el voleibol bajo el nombre de mintonette.</br>
+
+	Para su creación Morgan tomó en cuenta todas las técnicas deportivas que él ya conocía y ponía en práctica con sus alumnos, su finalidad era crear un juego por equipos para entrenar y competir, por tanto estableció tanto sus primeras reglas como los elementos del juego.</br>
+
+	En el año 1896 Morgan realizó la primera presentación pública del voleibol en una conferencia de las diversas asociaciones YMCA. Desde ese momento el voleibol consiguió gran receptividad y comenzó a expandirse por diversos países.</br>
+	<h2>¿Qué es?</h2>
+	El voleibol es un deporte que se juega con una pelota y en el que dos equipos, integrados por seis jugadores cada uno, se enfrentan sobre una área de juego separada por una red central.</br>
+	<a href="enlace1.html"> Picha aquí para saber en que consiste el juego</a></br>
+	<img width "5px" alt="texto alternativo de la img" src="fotovoley.jfif" />
+	<h2>Reglas del Voleibol</h2>
+	<ul>
+		<il>Campo de juego o cancha</il> <a href="enlace2.html"> Picha aquí para saber más</a></br>
+		<il>La red o la malla</il> <a href="enlace3.html"> Picha aquí para saber más</a></br>
+		<il>Pelota o balón</il> <a href="enlace4.html"> Picha aquí para saber más</a></br>
+		<il>Equipos</il> <a href="enlace5.html"> Picha aquí para saber más</a></br>
+		<il>posiciones y rotaciones</il> <a href="enlace6.html"> Picha aquí para saber más</a></br>
+	</ul>

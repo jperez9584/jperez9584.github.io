@@ -1,0 +1,21 @@
+<!DOCTYPE html>    
+<html>
+<head>
+	<meta charset "utf-8" />
+	<title> Tipos de saque </title>
+	<link rel="stylesheet" href="estilovole1.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet">
+</head>
+<div class="caja1"><body>
+	<h1>Saque bajo en voley (saque de abajo)</h1>
+	<p class="quote">Este saque se utiliza principalmente en volleyball recreativo. No requiere el nivel de habilidad o coordinación que requieren los otros tipos de servicios, pero si dominar la técnica de saque. Es el saque más básico, muy seguro, que busca colocar la pelota en una zona determinada del campo contrario.</br>
+	Lo primero que tienes que hacer en este tipos de saque es colocarte orientado hacia el campo, con el pie contrario al brazo que sacas adelantándolo, sosteniendo el balón con la mano contraria a la que golpea. Extendemos el brazo hacia atrás y golpeamos al balón con la mano tensa, y asó dominarás la técnica de saque.</br></p>
+	<img width "5px" alt="saque" src="saquebajo.jfif" /></br>
+	<center><a href="Voleibol26.html"> Picha aquí para volver a la página de inicio</a></br></center>
+</body></div>
+</html>

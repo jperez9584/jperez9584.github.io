@@ -1,0 +1,59 @@
+<!DOCTYPE html>    
+<html>
+<head>
+	<meta charset "utf-8" />
+	<title> Reglas del voleibol </title>
+	<link rel="stylesheet" href="estilovole2.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+</head>
+<div class="caja"><body>
+	<h2>LA RED O MALLA</h2>
+	<center><img class="box5" width "10px" alt="red" src="https://th.bing.com/th/id/R.31fefd5b8df4a633878d22f993a29fdb?rik=cRKbNrb5d7eV2A&riu=http%3a%2f%2fsialdeporte.com%2fwp-content%2fuploads%2f2018%2f02%2fDleganes-Club-Voleibol-Leganes-Superliga-2-noviembre-2017-Manacor-1.jpg&ehk=Qk7nXRAC9yTeimOFfkii4xv3w5%2fv6OnbPktq6UB4MrU%3d&risl=&pid=ImgRaw&r=0" /></center>
+	<div class="caja2"><ul> 
+		<li> La red o malla debe medir entre 9,5 o 10 m de largo y uno de ancho. La malla sobresale hacia las líneas lateralescerca de 50 cm.</li>
+		<li> Tiene dos bordes para poder identificar la parte superior e inferior de la malla.</li>
+		<li> Sobre la banda superior de la red sobresalen a cada lado unas varillas o antenas de 80 cm cada una, para demarcar la zona de juego. No deben ser tocadas ni por los jugadores ni por la pelota.</li>
+		<li> Debe estar sujetada por dos postes a una altura de 2,24 en la categoría femenina, o de 2,43 en la categoría masculina.</li>
+	</ul></div>
+	<center><div class="caja3"><table border "1">
+	<tr>
+		<td>CATEGORÍA</td>
+		<td>MASCULINA</td>
+		<td>FEMENINA</td>
+	</tr>
+	<tr>
+		<td>Sénior</td>
+		<td>2,43</td>
+		<td>2,24</td>
+	</tr>
+	<tr>
+		<td>Juvenil(16 a 18 años)</td>
+		<td>2,43</td>
+		<td>2,24</td>
+	</tr>
+	<tr>
+		<td>Cadete(14 y 15 años)</td>
+		<td>2,37</td>
+		<td>2,18</td>
+	</tr>
+	<tr>
+		<td>infantil(12 y 13 años)</td>
+		<td>2,24</td>
+		<td>2,10</td>
+	</tr>
+	<tr>
+		<td>Alevin(11 años)</td>
+		<td>2,10</td>
+		<td>2,10</td>
+	</tr>
+	<tr>
+		<td>Benjamín (hasta 10 años)</td>
+		<td>2,00</td>
+		<td>2,00</td>
+	</tr>
+	</table border "1"></div>
+	</center><a href="Voleibol26.html"> Picha aquí para volver a la página de inicio</a></br>
+</div></body>
+</html>

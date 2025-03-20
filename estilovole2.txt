@@ -1,0 +1,201 @@
+a{
+	Font-family: Henny+Penny;
+	font-size: 20px;
+	font-weight: 900;
+	font-style: italic;
+	text-decoration: none;
+	line-height: 1;
+	letter-spacing: 4px;
+	padding: 18px;
+	color; #040304;
+}
+
+h1{
+	color: #000;
+	Font-family: Permanent;
+	font-size: 54px;
+	font-weight: 900;
+	font-style: italic;
+	text-align: Center;
+	line-height: 1;
+	letter-spacing: 4px;
+	padding: 25px 5px;
+	border: 1px solid #000;
+	margin: 15px;
+	background:#2045ff7a;
+	width: auto;
+	left:10px;
+	
+}
+h2{
+	
+	color: black;
+	Font-family: calibri;
+	font-size: 32px;
+	font-weight: 900;
+	font-style: italic;
+	text-align: center;
+	line-height: 1;
+	letter-spacing: 4px;
+	padding: 10px;
+	border: 1px solid #000;
+	margin: 40px 300px;
+	width: auto;
+	box-shadow: 0px 0px 10px 8px #2045ff;
+
+}
+h4{
+	color: #004346;
+	Font-family: calibri;
+	font-size: 24px;
+	font-weight: 500;
+	font-style: italic;
+	text-align: center;
+	text-decoration: over-line;
+	line-height: 1;
+	letter-spacing: 6px;
+	
+}
+video{
+	display: block;
+  	margin: auto;
+}
+
+img {
+ 	display: block;
+  	margin: auto;
+}
+.box1{
+	float: right;
+    	width: auto;
+  	height: auto;
+   	box-sizing: border-box;
+    	margin: 25px 52px;
+   	padding: 30px 50px;
+}
+ul{
+	Font-family: arial;
+	font-weight: 100;
+	font-size: 18px;
+	line-height: 1;
+	letter-spacing: 4px;
+}
+tr{	
+	Font-family: montserrat;
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 1;
+	letter-spacing: 6px;
+}
+body{
+	background: #A9D2D5;
+	background-size: cover;
+	background: url(https://th.bing.com/th/id/OIP.D3TFRID4f-zJWVasElX05wHaEK?rs=1&pid=ImgDetMain);
+	background-attachment: fixed;
+}
+p{
+	color: #fff8f8;
+	Font-family: match;
+	font-size: 16px;
+	font-weight: 300;
+	text-align: center;
+	line-height: 1;
+	letter-spacing: 2px;
+	padding: 20px 25px;
+	border: 1px solid #848181;
+	margin: 15px;
+	background: #2045ff57;	
+}
+div {
+}
+.caja{
+	box-sizing: border-box;
+	border-radius: 20px;
+	margin: 65px 130px;
+	padding: 55px 85px;
+	display: table;
+	background: radial-gradient(#fff, #97a8fdbf);
+}
+.caja1{
+	box-sizing: border-box;
+	margin: 15px 20px;
+	display: block;
+	background: #ffffff6e;
+	padding: 15px 20px;
+	text-align: center;
+}
+.box {
+	display: inline-block;
+	width: 55vh;
+	height: 45vh;
+	box-sizing: border-box;
+	padding: 10px 15px;
+	margin: 10px 45px 20px;
+}
+.box3{
+	width: 75px;
+	height: 70px;
+	right: 155px;
+	position: fixed;
+	background-size: cover;
+	background-image: url("https://th.bing.com/th/id/OIP.uIVq_G3-ev3SGERqr-4VeQHaIF?rs=1&pid=ImgDetMain");	
+}
+ul{
+	color: black;
+	Font-family: time new roman;
+	font-size: 16px;
+	font-weight: 350;
+	font-style: italic;
+	text-align: left;
+	letter-spacing: 2px;
+
+}
+.box4{
+	box-shadow:inset 0px 0px 8px 7px #2045ff;
+}
+.box5{
+	width: 450px;
+	height: 300px;
+	display: block;
+}
+.caja2{
+	box-sizing: border-box;
+	margin: 15px 20px;
+	display: block;
+	background: #97a8fd;
+	padding: 15px 20px;
+	text-align: center;
+}
+.caja3{
+	box-sizing: border-box;
+	border-radius: 20px;
+	margin: 20px 200px;
+	padding: 20px ;
+	background:linear-gradient(#2045ff, #97a8fd, #97a8fd, #97a8fd, #2045ff);
+	display: block;
+}
+td{
+	color: #fff;
+	Font-family: cursive;
+	font-size: 16px;
+	font-weight: 500;
+	font-style: italic;
+	text-align: center;
+	line-height: 1;
+	letter-spacing: 3px;
+	padding: 10px;
+	border: 4px solid #000;
+	margin: 10px 20px;
+}
+tr{
+	padding: 10px;
+	margin: 10px 20px;
+}
+.box5{
+	display: inline-block;
+	width: 75vh;
+	height: 45vh;
+	box-sizing: border-box;
+	padding: 10px 15px;
+	margin: 10px 20px 20px;
+}

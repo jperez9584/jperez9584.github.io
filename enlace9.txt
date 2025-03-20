@@ -1,0 +1,21 @@
+<!DOCTYPE html>    
+<html>
+<head>
+	<meta charset "utf-8" />
+	<title> Tipos de saque </title>
+	<link rel="stylesheet" href="estilovole1.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet">
+</head>
+<div class="caja1"><body>
+	<h1>Saque flotante en volleyball</h1>
+	<p class="quote">El Saque Flotante en Voleibol es un tipo de saque táctico, realizado a potencia media, 	que utiliza una táctica de golpeo muy específica sobre el balón.</br>
+	El objetivo de la Jota Flotante es hacer que el balón se dirija hacia el campo contrario realizando 	curvas que perturben la recepción del saque del adversario.</p>
+	<img class="box box1" width "5px" alt="saque" src="saqueflota.jfif" /></br>
+	<center><a href="Voleibol26.html"> Picha aquí para volver a la página de inicio</a></br></center>
+</div></body>
+</html>

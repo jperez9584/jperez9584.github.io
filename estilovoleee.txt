@@ -1,0 +1,55 @@
+a{
+	color: olive;
+	Font-family: Henny+Penny;
+	font-size: 20px;
+	font-weight: 900;
+	font-style: italic;
+	text-decoration: none;
+	line-height: 1;
+	letter-spacing: 4px;
+	
+}
+
+h1{
+	color: orange;
+	Font-family: Permanent;
+	font-size: 54px;
+	font-weight: 900;
+	font-style: italic;
+	text-align: Center;
+	text-decoration: over-line;
+	line-height: 1;
+	letter-spacing: 4px;
+	
+}
+h2{
+	color: blue;
+	Font-family: calibri;
+	font-size: 32px;
+	font-weight: 500;
+	font-style: italic;
+	text-align: center;
+	text-decoration: over-line;
+	line-height: 1;
+	letter-spacing: 6px;
+	
+}
+
+img {
+ 	display: block;
+  	margin: auto;
+}
+
+ul{
+	Font-family: arial;
+	font-weight: 100;
+	font-size: 18px;
+	line-height: 1;
+	letter-spacing: 4px;
+}
+tr{	
+	Font-family: montserrat;
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 1;
+	letter-spacing: 6px;
