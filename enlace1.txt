@@ -14,7 +14,7 @@
 	<img width "5px" alt="saque" src="ul.jfif" /></br>
 	<p>El objetivo del juego es pasar el balón por encima de la red, logrando que llegue al suelo del campo contrario mientras el equipo adversario intenta impedir simultáneamente que lo 	consiga, forzándolo a errar en su intento. Surge una fase de ataque en un equipo cuando intenta que el balón toque el suelo del campo contrario mientras que en el otro equipo surge 	una fase de defensa intentando impedirlo.</p>
 	<center><a href="https://www.youtube.com/watch?v=hN3u-fSAsD4&t=14s"> Picha aquí para ver otro vídeo</a></br></center>
-	<center><a href="Voleibol26.html"> Picha aquí para volver a la página de inicio</a></br></center>
+	<center><a href="index.html"> Picha aquí para volver a la página de inicio</a></br></center>
 	<h4>MINI PARTIDO</h4>
 	<video src="minipartido.mp4"
 	controls
