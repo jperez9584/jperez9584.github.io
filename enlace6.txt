@@ -19,6 +19,6 @@
 		<il> Los jugadores no deben tocar los espacios del equipo contrario, esto es considerado como falta.</il>
 		<il> En el caso, de que un equipo le arrebate el saque al otro, los jugadores, menos el líbero, deben de rotarse de posición en el sentido de las agujas del reloj.</il>
 	</ul></div>
-	<center><a href="Voleibol26.html"> Picha aquí para volver a la página de inicio</a></br></center>
+	<center><a href="index.html"> Picha aquí para volver a la página de inicio</a></br></center>
 </body></div>
 </html>
