@@ -23,6 +23,6 @@
 		<li> Los jugadores líbero juegan una posición defensiva. Pueden entrar y salir del campo varias veces para sustituir a cualquiera de sus compañeros, menos al capitán del equipo.</li>
 		<li> Todos los jugadores que vayan a jugar deben estar uniformados (pantalón corto, camiseta identificada con un número del 1 al 20, en el frente y la espalda, y zapatos deportivos). El único uniforme que varía de color es el del líbero.</li>
 	</ul></div>
-	<center><a href="Voleibol26.html"> Picha aquí para volver a la página de inicio</a></br></center>
+	<center><a href="index.html"> Picha aquí para volver a la página de inicio</a></br></center>
 </body></div>
 </html>
