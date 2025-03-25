@@ -54,6 +54,6 @@
 		<td>2,00</td>
 	</tr>
 	</table border "1"></div>
-	</center><a href="Voleibol26.html"> Picha aquí para volver a la página de inicio</a></br>
+	</center><a href="index.html"> Picha aquí para volver a la página de inicio</a></br>
 </div></body>
 </html>
